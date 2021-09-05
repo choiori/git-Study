@@ -1,4 +1,1 @@
-a
-b
-c
-d
+master 1
